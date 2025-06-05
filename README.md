@@ -1,4 +1,4 @@
-# 🎯 Prime Number Guessing Game  
+# 🎯 CODE IN PLACE 2025 PROJECT SUBMISSION
 *A fun, beginner-friendly and a very simple Python project made during Code in Place!*
 
 <div align="center">
