@@ -65,13 +65,5 @@ Thank you to the **Code in Place team**, the section leaders, and every single p
 
 ---
 
-## 🪄 Bonus: Why This Game Might Make You Smile
-- It’s an actual game. Not just a print statement!
-- Teaches about **prime numbers** in a friendly way.
-- Makes your brain work a little.
-- Lets you feel that little rush when you guess it right! 😄
-
----
-
 Let’s keep learning and building. 🚀  
 **– Prathyush N M**
