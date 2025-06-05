@@ -2,7 +2,7 @@
 *A fun, beginner-friendly and a very simple Python project made during Code in Place!*
 
 <div align="center">
-  <img src="./prime_thumb.png" alt="Thumbnail of Game" width="300"/>
+  <img src="./images/prime_thumb.png" alt="Thumbnail of Game" width="300"/>
 
 ---
 
