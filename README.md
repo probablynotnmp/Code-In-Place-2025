@@ -53,7 +53,6 @@ For my final project, I wanted something simple yet surprisingly engaging. So I 
 
 ### ✅ Why This Project?
 I chose this idea because:
-- It’s short and sweet (~50 lines of code).
 - It uses all the core concepts I’ve learned:
   - **Functions**
   - **Loops**
