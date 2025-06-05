@@ -2,7 +2,6 @@
 *A fun, beginner-friendly and a very simple Python project made during Code in Place!*
 
 <div align="center">
-  <img src="./images/prime_thumb.png" alt="Thumbnail of Game" width="300"/>
   <img src="./images/stanford.png" alt="Stanford Logo" width="300"/>
 </div>
 
@@ -31,6 +30,10 @@ Whether it was asking questions or helping others in the forum, the sense of sup
 ---
 
 ## 💡 The Final Project: Prime Number Guessing Game
+
+<div align="center">
+  <img src="./images/prime_thumb.png" alt="Thumbnail of Game" width="300"/>
+</div>
 
 For my final project, I wanted something simple yet surprisingly engaging. So I created this:
 
