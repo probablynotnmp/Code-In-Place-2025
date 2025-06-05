@@ -1,7 +1,10 @@
 # 🎯 Prime Number Guessing Game  
 *A fun, beginner-friendly and a very simple Python project made during Code in Place!*
 
+<div align="center">
   <img src="./images/prime_thumb.png" alt="Thumbnail of Game" width="300"/>
+  <img src="./images/stanford.png" alt="Stanford Logo" width="300"/>
+</div>
 
 ---
 
