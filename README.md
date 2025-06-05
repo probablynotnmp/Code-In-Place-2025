@@ -1,4 +1,4 @@
-# 🎯 CODE IN PLACE 2025 PROJECT SUBMISSION
+# CODE IN PLACE 2025 PROJECT SUBMISSION 📩
 *A fun, beginner-friendly and a very simple Python project made during Code in Place!*
 
 <div align="center">
@@ -29,9 +29,11 @@ Whether it was asking questions or helping others in the forum, the sense of sup
 
 ---
 
-## 💡 The Final Project: Prime Number Guessing Game
+# 💡 The Final Project: Prime Number Guessing Game
 
 For my final project, I wanted something simple yet surprisingly engaging. So I created this:
+
+## GUESS THE PRIME NUMBER!
 
 <div align="center">
   <img src="./images/prime_thumb.png" alt="Thumbnail of Game" width="300"/>
