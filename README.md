@@ -1,7 +1,8 @@
 # 🎯 Prime Number Guessing Game  
 *A fun, beginner-friendly and a very simple Python project made during Code in Place!*
 
-![Thumbnail of Game](./images/prime_thumb.png)
+<div align="center">
+  <img src="./prime_thumb.png" alt="Thumbnail of Game" width="300"/>
 
 ---
 
