@@ -31,11 +31,12 @@ Whether it was asking questions or helping others in the forum, the sense of sup
 
 ## 💡 The Final Project: Prime Number Guessing Game
 
+For my final project, I wanted something simple yet surprisingly engaging. So I created this:
+
 <div align="center">
   <img src="./images/prime_thumb.png" alt="Thumbnail of Game" width="300"/>
 </div>
 
-For my final project, I wanted something simple yet surprisingly engaging. So I created this:
 
 ### 🎮 What it Does
 - Picks a **random prime number** between 1 and 100.
