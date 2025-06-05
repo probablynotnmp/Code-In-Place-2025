@@ -29,11 +29,11 @@ Whether it was asking questions or helping others in the forum, the sense of sup
 
 ---
 
-# 💡 The Final Project: Prime Number Guessing Game
+# 💡 The Final Project: GUESS THE PRIME NUMBER!
 
 For my final project, I wanted something simple yet surprisingly engaging. So I created this:
 
-## GUESS THE PRIME NUMBER!
+## A Prime Number Guessing Game by Prathyush N M
 
 <div align="center">
   <img src="./images/prime_thumb.png" alt="Thumbnail of Game" width="300"/>
